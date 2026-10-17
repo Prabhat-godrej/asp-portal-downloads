@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026.10.17.1",
-  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.17.1/ASP-Portal-Setup.exe",
-  "sha256": "70ede3bb3c864bd5ecf6ca47a2d8ba7ca005fe3f27783bad76ef1ff08dcdf181",
-  "release_notes": "Windows user edition with approved Salesforce login access and Firebase attendance.",
-  "published_at": "2026-10-17T09:18:07.084391+00:00",
+  "version": "2026.10.17.2",
+  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.17.2/ASP-Portal-Setup.exe",
+  "sha256": "f0a0a4446217942794159593b85f32493224f255de8eef3a1a2639a7a8325527",
+  "release_notes": "Faster Spares and App Use/CRO queries, server-side Closed/Costed filters, reliable update checks at startup and Refresh.",
+  "published_at": "2026-10-17T11:11:13.638869+00:00",
   "mandatory": false
 }
