@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026.10.18.1",
-  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.18.1/ASP-Portal-Setup.exe",
-  "sha256": "3880b43b4e067daefcaeb13b11f968d54819fd98779f054bd44d867387b13d54",
-  "release_notes": "Action buckets, faster Field Monitoring, compact grouped SA queue, Fresh/Previous filters, Sealed System grouping and escalation indicators.",
-  "published_at": "2026-10-18T09:37:08.359778+00:00",
+  "version": "2026.10.18.2",
+  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.18.2/ASP-Portal-Setup.exe",
+  "sha256": "63d181c1fe414e2c07ea16f9514c75c4e5960c85a4796feb6f2e711062891e41",
+  "release_notes": "Lightweight direct attendance, Contractual/Field filters, persistent sync status, active-only queue, Overdue bucket and completion awareness beacons.",
+  "published_at": "2026-10-18T14:30:40.563870+00:00",
   "mandatory": false
 }
