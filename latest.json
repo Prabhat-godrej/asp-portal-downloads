@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026.10.17.3",
-  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.17.3/ASP-Portal-Setup.exe",
-  "sha256": "3d76ab06b15b49e1e77fab2dcaf2ab249ce1049e58bb855f10d416fa194bc11d",
-  "release_notes": "Fixes Spares Unavailability refresh timeouts by replacing the slow open-work-order scan with narrow spare-requested candidates.",
-  "published_at": "2026-10-17T11:46:19.543396+00:00",
+  "version": "2026.10.18.1",
+  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.18.1/ASP-Portal-Setup.exe",
+  "sha256": "3880b43b4e067daefcaeb13b11f968d54819fd98779f054bd44d867387b13d54",
+  "release_notes": "Action buckets, faster Field Monitoring, compact grouped SA queue, Fresh/Previous filters, Sealed System grouping and escalation indicators.",
+  "published_at": "2026-10-18T09:37:08.359778+00:00",
   "mandatory": false
 }
