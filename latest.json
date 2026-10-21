@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026.10.21.2",
-  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.21.2/ASP-Portal-Setup.exe",
-  "sha256": "0dcbc0735c801d3c661a55894f575b52887d11fdbea2d9d4012b53d240f50e98",
-  "release_notes": "Fix Windows black screen on startup; packaged WebView2 rendering verified.",
-  "published_at": "2026-10-21T08:30:34.732053+00:00",
+  "version": "2026.10.21.3",
+  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.21.3/ASP-Portal-Setup.exe",
+  "sha256": "d27bb38773a1d3684305c3a6fe5ff49aa5ef05b2cd097d35ca7027eff2cd4ac6",
+  "release_notes": "Fix Windows ERR_UNSAFE_PORT; safe local port and actual ASP Portal content verified.",
+  "published_at": "2026-10-21T08:54:22.665772+00:00",
   "mandatory": false
 }
