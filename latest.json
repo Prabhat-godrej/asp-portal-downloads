@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026.10.18.2",
-  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.18.2/ASP-Portal-Setup.exe",
-  "sha256": "63d181c1fe414e2c07ea16f9514c75c4e5960c85a4796feb6f2e711062891e41",
-  "release_notes": "Lightweight direct attendance, Contractual/Field filters, persistent sync status, active-only queue, Overdue bucket and completion awareness beacons.",
-  "published_at": "2026-10-18T14:30:40.563870+00:00",
+  "version": "2026.10.21.1",
+  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.21.1/ASP-Portal-Setup.exe",
+  "sha256": "b1637238b63e520229a4ed49dc511ac61082870fd797b029053e5e75d4e74132",
+  "release_notes": "Technician Assessment, shared productivity standards and assignment durations, weighted Field Technician KPI, Wrong Request Type bucket, unified reported counts and UI improvements.",
+  "published_at": "2026-10-21T06:58:19.014479+00:00",
   "mandatory": false
 }
