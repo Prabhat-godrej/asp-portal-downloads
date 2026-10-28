@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026.10.21.3",
-  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.21.3/ASP-Portal-Setup.exe",
-  "sha256": "d27bb38773a1d3684305c3a6fe5ff49aa5ef05b2cd097d35ca7027eff2cd4ac6",
-  "release_notes": "Fix Windows ERR_UNSAFE_PORT; safe local port and actual ASP Portal content verified.",
-  "published_at": "2026-10-21T08:54:22.665772+00:00",
+  "version": "2026.10.28.1",
+  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.28.1/ASP-Portal-Setup.exe",
+  "sha256": "81d131394afb448d31817d7efafc9439d63bf90627ace1c0a0c19358a914e40a",
+  "release_notes": "Fix refresh after idle or sleep. Stalled requests release loading controls. Wake-up recovery does not repeat saves or assignments. Retains Windows safe port 8877. Windows recovery regression tests and packaged startup verification passed.",
+  "published_at": "2026-10-28T07:32:23Z",
   "mandatory": false
 }
