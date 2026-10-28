@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2026.10.28.1",
-  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.28.1/ASP-Portal-Setup.exe",
-  "sha256": "81d131394afb448d31817d7efafc9439d63bf90627ace1c0a0c19358a914e40a",
-  "release_notes": "Fix refresh after idle or sleep. Stalled requests release loading controls. Wake-up recovery does not repeat saves or assignments. Retains Windows safe port 8877. Windows recovery regression tests and packaged startup verification passed.",
-  "published_at": "2026-10-28T07:32:23Z",
+  "version": "2026.10.28.2",
+  "installer_url": "https://github.com/Prabhat-godrej/asp-portal-downloads/releases/download/v2026.10.28.2/ASP-Portal-Setup.exe",
+  "sha256": "c0b719bb3e0ba0204105905db7eaf60350ba0d0c467a02db5421ff2d6297a48e",
+  "release_notes": "Fix clipped counts and illustrations in Action Required, Awareness and Dependencies on Windows laptop screens. Parent panels retain readable space and use a scroll fallback on short windows. No Salesforce queries or business calculations changed. Retains idle/sleep refresh recovery and safe startup port 8877.",
+  "published_at": "2026-10-28T10:24:12Z",
   "mandatory": false
 }
